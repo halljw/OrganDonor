@@ -1,0 +1,339 @@
+Alabama,ALAM-TX1 Univ of South Alabama Med Ctr
+Alabama,ALCH-TX1 Children's of Alabama
+Alabama,ALUA-TX1 Univ of Alabama Hospital
+Alabama,ALVA-TX1 Birmingham VA Medical Center
+Arkansas,ARBH-TX1 Baptist Medical Center
+Arkansas,ARCH-TX1 Arkansas Children's Hospital
+Arkansas,ARUA-TX1 UAMS Medical Center
+Arizona,AZCH-TX1 Phoenix Children's Hospital
+Arizona,AZGS-TX1 Banner- University Medical Center
+Arizona,AZHH-TX1 Phoenix Regional Medical Center
+Arizona,AZMC-TX1 Mayo Clinic Hospital
+Arizona,AZSJ-TX1 St Joseph's Hospital & Medical Center
+Arizona,AZSM-TX1 Scottsdale Healthcare Osborn
+Arizona,AZTV-TX1 Veterans Admin Med Ctr Tucson
+Arizona,AZUA-TX1 Banner University Medical Center
+Colorado,COCH-TX1 Children's Hospital Colorado
+Colorado,COMH-TX1 Memorial Hosp
+Colorado,COPM-TX1 Centura Porter Adventist Hosp
+Colorado,COSL-TX1 Presbyterian/ St Luke's Medical Ctr.
+Colorado,COUC-TX1 University of Colorado Hospital/HSC
+Connecticut,CTHH-TX1 Hartford Hospital
+Connecticut,CTYN-TX1 Yale New Haven Hosp
+Delaware,DEAI-TX1 Alfred I duPont Hospital for Children
+Delaware,DECC-TX1 Christiana Care Health Services
+District of Columbia,DCCH-TX1 Children's National Medical Ctr
+District of Columbia,DCGU-TX1 Georgetown Univ Med Ctr
+District of Columbia,DCGW-TX1 George Washington University Hospital
+District of Columbia,DCHU-TX1 Howard University Hospital
+District of Columbia,DCWH-TX1 Washington Hospital Center
+District of Columbia,DCWR-TX1 Walter Reed National Military
+Georgia,GAEH-TX1 Children's Healthcare of Atlanta
+Georgia,GAEM-TX1 Emory University Hospital
+Georgia,GAMC-TX1 AU Medical Center, Inc.
+Georgia,GAPH-TX1 Piedmont Hospital
+Georgia,GASJ-TX1 St. Joseph's Hosp of Atlanta
+Georgia,GAUH-TX1 University Hospital
+Hawaii,HIQM-TX1 The Queen's Medical Center
+Hawaii,HISF-TX1 Hawaii Medical Center East
+Indiana,INIM-TX1 Indiana University Health
+Indiana,INIU-TX1 Indiana University Med Ctr
+Indiana,INLH-TX1 Lutheran Hosp of Ft Wayne
+Indiana,INSV-TX1 St Vincent Hosp and Health Care Ctr
+Kansas,KSFW-TX1 Via Christi Hospitals Wichita, Inc.
+Kansas,KSUK-TX1 University of Kansas Hospital
+Florida,FLAC-TX1 John Hopkins All Children's Hospital
+Florida,FLBC-TX1 Broward General Medical Center
+Florida,FLBF-TX1 Bert Fish Medical Center
+Florida,FLCC-TX1 Cleveland Clinic Florida Weston
+Florida,FLFH-TX1 Florida Hospital Medical Center
+Florida,FLFR-TX1 Gulf Coast Medical Center
+Florida,FLHM-TX1 Halifax Medical Center
+Florida,FLJD-TX1 Mem Reg /Joe DiMaggio Children's Hosp
+Florida,FLJM-TX1 Jackson Memorial Hospital
+Florida,FLJT-TX1 Shands Jacksonville
+Florida,FLLM-TX1 Largo Medical Center
+Florida,FLMC-TX1 Miami Childrens Hosp
+Florida,FLMR-TX1 Memorial Regional Hospital
+Florida,FLSH-TX1 Sacred Heart Hospital Pensacola
+Florida,FLSJ-TX1 St Josephs Hosp
+Florida,FLSL-TX1 Mayo Clinic Florida
+Florida,FLTG-TX1 Tampa General Hospital
+Florida,FLTO-TX1 Tallahassee Memorial Hospital
+Florida,FLUF-TX1 UF Health Shands Hospital
+Florida,FLUM-TX1 University Medical Center
+Illinois,ILCH-TX1 Advocate Christ Medical Center
+Illinois,ILCM-TX1 Ann & Robert H. Lurie Children's Hosp
+Illinois,ILEH-TX1 Evanston Hospital
+Illinois,ILLU-TX1 Loyola Univ Med Center
+Illinois,ILLU-VA1 Hines V.A. Medical Center
+Illinois,ILMM-TX1 Memorial Medical Center
+Illinois,ILNM-TX1 Northwestern Memorial Hospital
+Illinois,ILPL-TX1 Rush University Med Ctr
+Illinois,ILSF-TX1 OSF St Francis Med Ctr
+Illinois,ILSJ-TX1 St. Johns Hospital
+Illinois,ILUC-TX1 Univ of Chicago Med Ctr
+Illinois,ILUI-TX1 University of Illinois Medical Center
+Iowa,IAIM-TX1 Iowa Methodist Medical Center
+Iowa,IAIV-TX1 The University of Iowa Hospitals and
+Iowa,IAMH-TX1 Mercy Medical Center
+Iowa,IAVA-TX1 The Iowa City VA Health Care System
+Kentucky,KYHH-TX1 Columbia Audubon Hosp
+Kentucky,KYJH-TX1 Jewish Hospital
+Kentucky,KYKC-TX1 Norton Children's Hospital
+Kentucky,KYUK-TX1 Univ of Kentucky Med Ctr
+Louisiana,LACH-TX1 Children's Hospital
+Louisiana,LAMC-TX1 University Medical Center
+Louisiana,LANO-TX1 University Hospital
+Louisiana,LAOF-TX1 Ochsner Foundation Hospital
+Louisiana,LASB-TX1 Lindy Boggs Medical Center
+Louisiana,LASM-TX1 Schumpert Health System
+Louisiana,LASU-TX1 Louisiana State Univ Med Ctr
+Louisiana,LATU-TX1 Tulane Medical Center
+Louisiana,LAWK-TX1 Willis-Knighton Medical Center
+California,CABE-TX1 St Bernardine Med Center
+California,CABH-TX1 Alta Bates Med Ctr
+California,CACH-TX1 Rady Children's Hosp & Health Center
+California,CACL-TX1 Childrens Hospital Los Angeles
+California,CACS-TX1 Cedars-Sinai Med Center
+California,CAEM-TX1 Eisenhower Mem Hosp
+California,CAGH-TX1 Scripps Green Hospital
+California,CAIM-TX1 UCI Medical Center
+California,CAKP-TX1 Kaiser Permanente-San Fran. Med. Ctr
+California,CALA-TX1 Harbor UCLA Med Center
+California,CALB-TX1 St Mary Medical Center
+California,CALL-TX1 Loma Linda Univ Med Ctr
+California,CAMB-TX1 UCSF Medical Center at Mission Bay
+California,CAMH-TX1 Santa Rosa Memorial Hosp
+California,CAPC-TX1 Lucile Salter Packard Children's Hosp
+California,CAPM-TX1 California Pacific Med Ctr
+California,CARC-TX1 Riverside Community Hosp
+California,CARZ-TX1 Hoag Mem Hosp Presbyterian
+California,CASB-TX1 Arrowhead Reg. Med. Ctr.
+California,CASC-TX1 Univ of Southern CA Med Ctr
+California,CASD-TX1 UCSD Medical Center
+California,CASF-TX1 Univ of CA San Francisco Med Ctr
+California,CASG-TX1 Sutter Medical Center Sacramento
+California,CASH-TX1 Sharp Memorial Hospital
+California,CASJ-TX1 St Joseph Hospital
+California,CASM-TX1 UC Davis Medical Center
+California,CASU-TX1 Stanford Health Care
+California,CASV-TX1 St. Vincent Medical Center
+California,CAUC-TX1 UCLA Medical Center
+California,CAUH-TX1 Keck Hospital of USC
+California,CAWM-TX1 Western Medical Center
+Maine,MEMC-TX1 Maine Medical Center
+Maryland,MDBC-TX1 Johns Hopkins Bayview Med Ctr
+Maryland,MDJH-TX1 Johns Hopkins Hospital
+Maryland,MDNI-TX1 Warren Grant Magnuson Clinical Ctr
+Maryland,MDSG-TX1 Shady Grove Adventist Hosp
+Maryland,MDUM-TX1 Univ of Maryland Med System
+Mississippi,MSUM-TX1 Univ of MS Med Ctr
+Massachusetts,MABI-TX1 Beth Israel Deaconess Med Ctr
+Massachusetts,MABS-TX1 Baystate Medical Center
+Massachusetts,MABU-TX1 Boston Medical Center
+Massachusetts,MABV-TX1 Boston VA Med Ctr
+Massachusetts,MACH-TX1 Boston Children's Hospital
+Massachusetts,MAHS-TX1 Beth Israel Deaconess Med Ctr
+Massachusetts,MALC-TX1 Lahey Clinic Med Ctr
+Massachusetts,MAMG-TX1 Massachusetts General Hospital
+Massachusetts,MANM-TX1 Tufts Medical Center
+Massachusetts,MAPB-TX1 Brigham and Women's Hosp
+Massachusetts,MAUM-TX1 UMass Memorial Medical Center
+Michigan,MIBH-TX1 William Beaumont Hospital
+Michigan,MICH-TX1 Children's Hosp of Michigan
+Michigan,MIDV-TX1 Helen DeVos Children's Hospital
+Michigan,MIHF-TX1 Henry Ford Hospital
+Michigan,MIHH-TX1 Harper Univ Hospital Detroit Med Ctr
+Michigan,MIHM-TX1 Hurley Medical Center
+Michigan,MIKZ-TX1 Borgess Med Ctr
+Michigan,MIMC-TX1 Grace Hosp
+Michigan,MISH-TX1 Spectrum Health
+Michigan,MISJ-TX1 St John Hosp and Med Ctr
+Michigan,MISM-TX1 Mercy Health Saint Marys
+Michigan,MIUM-TX1 Univ of Michigan Med Ctr
+Minnesota,MNAC-TX1 Univ of MN Amplatz Children's Hosp
+Minnesota,MNAN-TX1 Abbott Northwestern Hospital
+Minnesota,MNHC-TX1 Hennepin County Med Ctr
+Minnesota,MNMC-TX1 Rochester Methodist Hosp- Mayo Clinic
+Minnesota,MNMM-TX1 Metropolitan Mt Sinai Med Ctr
+Minnesota,MNMV-TX1 Veterans Admin Med Ctr
+Minnesota,MNSM-TX1 St Marys Hospital (Mayo Clinic)
+Minnesota,MNUM-TX1 Univ. of Minnesota Medical Center
+New Hampshire,NHDH-TX1 Mary Hitchcock Memorial Hosp
+Nevada,NVHH-TX1 Sunrise Hosp and Medical Center
+Nevada,NVUM-TX1 University Med Ctr of Southern NV
+Nebraska,NEBM-TX1 BryanLGH Medical Center East
+Nebraska,NECH-TX1 Children's Hospital & Medical Center
+Nebraska,NECM-TX1 Nebraska Health System
+Nebraska,NESJ-TX1 St Joseph Hosp
+Nebraska,NEUN-TX1 The Nebraska Medical Center
+New Jersey,NJBI-TX1 Newark Beth Israel Med Ctr
+New Jersey,NJHK-TX1 Hackensack University Medical Center
+New Jersey,NJLL-TX1 Our Lady of Lourdes Med Ctr
+New Jersey,NJRW-TX1 Robert Wood Johnson University Hosp
+New Jersey,NJSB-TX1 St Barnabas Medical Center
+New Jersey,NJUH-TX1 University Hospital
+New Mexico,NMAQ-TX1 University Hospital
+New Mexico,NMPH-TX1 Presbyterian Hospital
+Missouri,MOBH-TX1 Barnes-Jewish Hospital
+Missouri,MOCG-TX1 Cardinal Glennon Childrens Hosp
+Missouri,MOCH-TX1 St. Louis Children's Hospital
+Missouri,MOCM-TX1 Children's Mercy Hospital
+Missouri,MOCV-TX1 John Cochran VA Hosp
+Missouri,MODU-TX1 DePaul Health Ctr
+Missouri,MOJM-TX1 St Johns Mercy Med Ctr
+Missouri,MOLH-TX1 Saint Luke's Hospital of Kansas City
+Missouri,MOMM-TX1 Menorah Med Ctr
+Missouri,MORH-TX1 Research Medical Center
+Missouri,MOSJ-TX1 St Johns Reg Med Ctr
+Missouri,MOSL-TX1 SSM Health Saint Louis University Hos
+Missouri,MOUM-TX1 Univ of Missouri Hosp and Clinic
+North Dakota,NDDH-TX1 Dakota Heartland Health System
+North Dakota,NDMC-TX1 Sanford Bismarck Medical Center
+North Dakota,NDSL-TX1 Sanford Medical Center Fargo
+North Carolina,NCBG-TX1 Wake Forest Baptist Medical Center
+North Carolina,NCCM-TX1 Carolinas Medical Center
+North Carolina,NCDU-TX1 Duke University Hospital
+North Carolina,NCDU-VA1 Durham VA Medical Center
+North Carolina,NCEC-TX1 Vidant Medical Center
+North Carolina,NCMH-TX1 UNC Hospitals
+Oklahoma,OKBC-TX1 Integris Baptist Med Ctr
+Oklahoma,OKCM-TX1 Children's Hosp of Oklahoma
+Oklahoma,OKHM-TX1 Hillcrest Med Ctr
+Oklahoma,OKMD-TX1 OU Medical Center
+Oklahoma,OKSA-TX1 St Anthony Hospital
+Oklahoma,OKSF-TX1 Saint Francis Hospital
+Oklahoma,OKSJ-TX1 St. John Medical Center
+Puerto Rico,PRCC-TX1 Cardiovascular Ctr of PR
+Puerto Rico,PRSJ-TX1 Auxilio Mutuo Hosp
+Rhode Island,RIRH-TX1 Rhode Island Hospital
+South Carolina,SCCH-TX1 MUSC Children's Hospital
+South Carolina,SCMU-TX1 Medical Univ of SC
+South Carolina,SCRM-TX1 Richland Memorial Hosp
+South Dakota,SDMK-TX1 Avera McKennan Hosp
+South Dakota,SDSV-TX1 Sanford Health/USD Medical Center
+Oregon,ORGS-TX1 Legacy Good Samaritan Hosp Med Ctr
+Oregon,ORPM-TX1 Providence Portland Medical Center
+Oregon,ORUO-TX1 Oregon Health and Science University
+Oregon,ORVA-TX1 VA Portland Health Care System
+Ohio,OHAC-TX1 Akron City Hospital
+Ohio,OHCA-TX1 Childrens Hosp Med Ctr of Akron
+Ohio,OHCC-TX1 Cleveland Clinic Foundation
+Ohio,OHCH-TX1 Nationwide Children's Hospital
+Ohio,OHCM-TX1 Children's Hosp Med Ctr
+Ohio,OHCO-TX1 University of Toledo Medical Center
+Ohio,OHMV-TX1 Miami Valley Hosp
+Ohio,OHOU-TX1 Ohio State Univ Med Ctr
+Ohio,OHSE-TX1 St Elizabeth Health Ctr
+Ohio,OHTC-TX1 The Christ Hospital
+Ohio,OHUC-TX1 University of Cincinnati Medical Cen
+Ohio,OHUH-TX1 University Hosp of Cleveland
+Vermont,VTMC-TX1 The University of Vermont Medical Cen
+Utah,UTLD-TX1 Intermountain Medical Center
+Utah,UTMC-TX1 Univ of Utah Medical Center
+Utah,UTMC-VA1 Salt Lake City VA Medical Center
+Utah,UTPC-TX1 Primary Children's Hospital
+West Virginia,WVCA-TX1 Charleston Area Medical Center
+West Virginia,WVWU-TX1 WV University Hospital
+Washington,WACH-TX1 Seattle Children's Hospital
+Washington,WASH-TX1 Sacred Heart Med Ctr
+Washington,WASM-TX1 Swedish Medical Center
+Washington,WAUW-TX1 Univ of Washington Med Ctr
+Washington,WAVM-TX1 Virginia Mason Med Ctr
+Tennessee,TNBM-TX1 Baptist Memorial Hosp
+Tennessee,TNEM-TX1 Erlanger Med Ctr
+Tennessee,TNJC-TX1 Johnson City Med Ctr Hosp
+Tennessee,TNLB-TX1 Le Bonheur Children's Med Ctr
+Tennessee,TNMH-TX1 Methodist University Hospital
+Tennessee,TNPV-TX1 Centennial Medical Center
+Tennessee,TNST-TX1 St. Thomas Hospital
+Tennessee,TNUK-TX1 Univ of Tennessee Med Ctr
+Tennessee,TNUT-TX1 Univ of Tennessee Med Center
+Tennessee,TNVU-TX1 Vanderbilt Univ Med Ctr
+Tennessee,TNVU-VA1 Nashville VA Medical Center
+Virginia,VACH-TX1 Children's Hosp of King's Daughters
+Virginia,VAFH-TX1 Inova Fairfax Hosp
+Virginia,VAHD-TX1 Henrico Doctors' Hospital
+Virginia,VAMC-TX1 MCV Hospitals
+Virginia,VAMV-TX1 McGuire VA Medical Center
+Virginia,VANG-TX1 Sentara Norfolk General Hospital
+Virginia,VARM-TX1 Carilion Roanoke Memorial Hosp
+Virginia,VAUV-TX1 Univ of Virginia HSC
+Wisconsin,WICH-TX1 Childrens Hosp of Wisconsin
+Wisconsin,WIMC-TX1 John L Doyne Hosp
+Wisconsin,WISE-TX1 Froedtert Mem Lutheran Hosp
+Wisconsin,WISL-TX1 Aurora St. Luke's Medical Center
+Wisconsin,WIUW-TX1 Univ of Wisconsin Hosp and Clinics
+New York,NYAM-TX1 Albany Med Center Hospital
+New York,NYBC-TX1 Childrens Hosp of Buffalo
+New York,NYBU-TX1 Buffalo General Hosp/Children's Hosp
+New York,NYBU-VA1 Buffalo VA Medical Center
+New York,NYCC-TX1 Long Island Jewish Medical Center-
+New York,NYCP-TX1 New York-Presbyterian/Columbia
+New York,NYDS-TX1 SUNY Downstate Medical Center
+New York,NYEC-TX1 Erie County Medical Center
+New York,NYFL-TX1 Strong Memorial Hospital
+New York,NYMA-TX1 Montefiore Medical Center
+New York,NYMS-TX1 Mount Sinai Med Center
+New York,NYNS-TX1 North Shore University Hospital
+New York,NYNY-TX1 New York-Presbyterian/Weill Cornell
+New York,NYSB-TX1 University Hosp of SUNY
+New York,NYSL-TX1 St Luke's Roosevelt Hosp Ctr
+New York,NYUC-TX1 New York Univ Medical Center
+New York,NYUM-TX1 SUNY Upstate Medical University
+New York,NYVA-TX1 James J. Peters VA Medical Center
+New York,NYWC-TX1 Westchester Medical Center
+Pennsylvania,PAAE-TX1 Albert Einstein Med Ctr
+Pennsylvania,PAAG-TX1 Allegheny General Hosp
+Pennsylvania,PACC-TX1 Crozer-Chester Medical Center
+Pennsylvania,PACH-TX1 Children's Hosp of Pittsburgh of UPMC
+Pennsylvania,PACP-TX1 Childrens Hosp of Philadelphia
+Pennsylvania,PAGM-TX1 Geisinger Medical Center
+Pennsylvania,PAHE-TX1 Penn State Milton S Hershey Med Ctr
+Pennsylvania,PAHH-TX1 Harrisburg Hospital
+Pennsylvania,PAHM-TX1 Hahnemann University Hospital
+Pennsylvania,PALH-TX1 The Lankenau Hospital
+Pennsylvania,PALV-TX1 Lehigh Valley Hospital
+Pennsylvania,PAPH-TX1 UPMC Hamot
+Pennsylvania,PAPT-TX1 Univ of Pittsburgh Med Ctr
+Pennsylvania,PASC-TX1 St. Christopher's Hosp for Children
+Pennsylvania,PATJ-TX1 Thomas Jefferson Univ Hosp
+Pennsylvania,PATU-TX1 Temple Univ Hospital
+Pennsylvania,PAUP-TX1 The Hosp of the Univ of PA
+Pennsylvania,PAVA-TX1 VA Pittsburgh Healthcare System
+Pennsylvania,PAWV-TX1 Geisinger Wyoming Valley Medical Ctr
+Texas,TXAD-TX1 Brackenridge Hospital
+Texas,TXAS-TX1 Baylor Scott and White All Saints
+Texas,TXBA-TX1 Brooke Army Med Ctr
+Texas,TXBC-TX1 University Hospital
+Texas,TXCF-TX1 Cook Children's Med Ctr
+Texas,TXCM-TX1 Children's Med Ctr of Dallas
+Texas,TXCT-TX1 Seton Medical Center Austin
+Texas,TXDC-TX1 Driscoll Children's Hospital
+Texas,TXDM-TX1 North Austin Medical Center
+Texas,TXDR-TX1 Doctor's Hospital at Renaissance
+Texas,TXFW-TX1 TX Health Harris Meth. Ft Worth Hosp
+Texas,TXGV-TX1 Baylor Med Ctr Grapevine
+Texas,TXHD-TX1 Medical City Dallas Hospital
+Texas,TXHH-TX1 Memorial Hermann Hospital
+Texas,TXHI-TX1 CHI St. Luke's Health Baylor College
+Texas,TXHS-TX1 Methodist Specialty & Transplant Hosp
+Texas,TXJS-TX1 Univ of Texas Med Branch
+Texas,TXLG-TX1 University Medical Center
+Texas,TXLM-TX1 Covenant Medical Center
+Texas,TXLP-TX1 Las Palmas Medical Center
+Texas,TXMA-TX1 McAllen Medical Center
+Texas,TXMC-TX1 Methodist Dallas Medical Center
+Texas,TXMH-TX1 Houston Methodist Hospital
+Texas,TXPL-TX1 Medical City Fort Worth
+Texas,TXPM-TX1 Parkland Health and Hospital System
+Texas,TXRM-TX1 Christus Santa Rosa Hospital Med. Ctr
+Texas,TXSM-TX1 Sierra Medical Ctr
+Texas,TXSP-TX1 UT Southwestern Medical Center/
+Texas,TXSW-TX1 Scott and White Mem Hosp
+Texas,TXTC-TX1 Texas Children's Hospital
+Texas,TXTX-TX1 Baylor University Medical Center
+Texas,TXTY-TX1 East Texas Med Ctr
+Texas,TXVA-TX1 Michael E. DeBakey VA Medical Center
+Texas,TXWH-TX1 Wilford Hall Med Ctr
